@@ -7,6 +7,7 @@ Comparação entre os protocolos no ano de 2018.
 * Criado por Vitalik Buterin em 2015, é o primeiro blockchain a suportar smart contracts no mundo.
 * Inicialmente Proof of Work(dagger-hashimoto), migrou seu conceito de validação hibrido para Proof of Stake(Casper) e Proof of Work.
 * Inflação prevista para 0.5% ao ano, com previsões de diminuir cada vez mais.
+* Smart contracts em linguagem Solidity.
 
 * Ethereum Performance:
   * 16 segundos para uma validação de contrato.
@@ -20,6 +21,7 @@ Comparação entre os protocolos no ano de 2018.
 * Inflação prevista para 5%, sendo 1% para os "block producers" e 4% como "savings" para futuros projetos, sem previsão de diminuição.
 * Projeto em primeiros passos mas com grandes ambições.
 * Tem como foco projetos dApps.
+* Smart contracts em linguagem C++.
 
 * EOS Performance:
   * Projeto tem a meta de fazer a validação de milhões de transações por segundo, atualmente está realizando 1000 validações por segundo.
@@ -30,4 +32,6 @@ Comparação entre os protocolos no ano de 2018.
 
 Source  | Data
 ------------- | -------------
-Link  | <https://www.bitdegree.org/tutorials/eos-vs-ethereum/>
+Link 1  | <https://www.bitdegree.org/tutorials/eos-vs-ethereum/>
+Link 2  | <https://coincentral.com/ethereum-vs-eos/>
+Link 3  | <https://www.eoscanada.com/en/inflation-on-eos-what-do-i-need-to-know>
